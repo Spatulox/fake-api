@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/Spatulox/api](https://my-json-server.typicode.com/Spatulox/api)
+[https://my-json-server.typicode.com/Spatulox/fake-api](https://my-json-server.typicode.com/Spatulox/fake-api)
 
 ## Use your own data
 
